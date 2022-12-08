@@ -20,4 +20,3 @@ t_34.strike_power = 3
 
 print(t_34.__dict__)
 print(Tanks.__dict__)
-
